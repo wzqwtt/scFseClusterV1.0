@@ -3,7 +3,7 @@
 The directory contains the dataset for the scFseCluster test. In our experiments, each dataset contains three files.
 
 - `*_cell_label.csv`: Clustering labels for each cell. 
-- `no_filter_count.csv`: scRNA-seq expression matrix; rows represent cells, columns represent genes. 
+- `raw_data.csv`: scRNA-seq expression matrix; rows represent cells, columns represent genes. 
 - `T2000_expression.txt`: Top 2000 highly variable genes (HVGs). Not necessary, scFseCluster can help you generate HVGs. rows represent genes, columns represent cells. 
 
 In use, you can enter only the expression matrix of scRNA-seq. 
