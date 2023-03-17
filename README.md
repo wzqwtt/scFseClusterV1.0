@@ -47,7 +47,7 @@ conda install -c conda-forge r-seurat
 Finally, download scFseCluster from Github.
 
 ```bash
-git clone https://github.com/xxxxxxxxxxxxxxx
+git clone https://github.com/wzqwtt/scFseClusterV1.0.git
 cd scFseCluster
 ```
 
