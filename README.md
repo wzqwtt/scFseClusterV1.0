@@ -11,7 +11,7 @@ With scFseCluster package, you can:
 
 For more about scFseCluster, please see details in our paper:  **scFseCluster: a Feature selection enhanced clustering for single cell RNA-seq data.**
 
-![](Architecture/Figure 1_new.png)
+![](Architecture/Figure_1_new.png)
 
 
 
